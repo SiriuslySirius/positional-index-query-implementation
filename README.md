@@ -15,4 +15,4 @@ you're using the search function of whatever text editor you are using to test t
 <br/>
 **How to Run and their Parameters:**
 <br/>
-*java PositionalIndex \<path-to-input-files> \<path-to-out-result-files> \<first-word> \<second-word> \<int-distance-between-words>*
+*java PositionalIndex \<path-to-input-files> \<path-to-output-result-files> \<first-word> \<second-word> \<int-distance-between-words>*
