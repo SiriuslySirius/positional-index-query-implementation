@@ -7,9 +7,8 @@
     reading through spreadsheet software.
 
     Authors: Abelson Abueg
-    CSCI 6030 Information Retrieval Assignment 2
     Date Created: 11 Mar 2022
-    Last Updated: 12 Mar 2022
+    Last Updated: 13 Mar 2022
 */
 
 // Java
