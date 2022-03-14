@@ -330,7 +330,7 @@ public class PositionalIndex {
             System.err.println("You have given " + args.length + " command line arguments");
             System.err.println("Incorrect usage. Program terminated");
             System.err.println(
-                    "Correct usage: java PositionalIndex <path-to-input-files> <path-to-out-result-files> <first-word> <second-word> <int-distance-between-words>");
+                    "Correct usage: java PositionalIndex <path-to-input-files> <path-to-output-result-files> <first-word> <second-word> <int-distance-between-words>");
             error = 1;
         }
         if (!(args[2] != null && args[2].matches("^[a-zA-Z]*$"))) {
